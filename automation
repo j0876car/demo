@@ -1,0 +1,7 @@
+---
+- name: create some content automation 
+  hosts: all
+  tasks:
+    - name: print out some data
+      debug:
+        var: someVar
