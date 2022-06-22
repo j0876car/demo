@@ -5,3 +5,7 @@
     - name: print out some data
       debug:
         var: someVar
+
+
+
+added more data to automation
